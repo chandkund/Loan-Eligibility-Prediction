@@ -113,7 +113,7 @@ Y = df.iloc[:,12].values
 ```python
 from sklearn.model_selection import train_test_split
 X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size = 0.2, random_state= 0)
-X_train.shape,X_test.shape,Y_train.shape,Y_test.shape
+X_train.shape,X_test.shape,Y_train.shape,Y_test.shape 
 ```
 - **LabelEncoder**:
 
@@ -163,7 +163,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 
 model_1 = LogisticRegression()
-model_1.fit(X_train,Y_train)
+model_1.fit(X_train,Y_train) 
 ```
 - **Model_1:Evaluation**: 
 ```python
