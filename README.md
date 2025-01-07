@@ -22,8 +22,8 @@ The dataset used for this project includes the following columns:
 - **Self_Employed**: Whether the applicant is self-employed (Yes/No).
 - **ApplicantIncome**: Income of the applicant.
 - **CoapplicantIncome**: Income of the co-applicant (if any).
-- **LoanAmount**: Requested loan amount.
-- **Loan_Amount_Term**: Term of the loan in months.
+- **LoanAmount**: Requested loan amount.  
+- **Loan_Amount_Term**: Term of the loan in months.  
 - **Credit_History**: Whether the applicant has a credit history (1: Yes, 0: No).
 - **Property_Area**: Area of the property (Urban/Semiurban/Rural).
 - **Loan_Status**: Loan approval status (Y: Yes, N: No).
