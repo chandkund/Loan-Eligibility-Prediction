@@ -96,7 +96,7 @@ plt.title("Correlation Heatmap for all Numerial Variables")
 ```
 
  ## Normalization
-```python 
+```python   
 df["TotalIncome"] = df['ApplicantIncome'] +df["CoapplicantIncome"]
 df["TotalIncome_log"] =np.log(df["TotalIncome"])
 df["TotalIncome_log"].hist(bins = 20)
