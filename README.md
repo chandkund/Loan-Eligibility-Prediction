@@ -145,15 +145,15 @@ from sklearn.preprocessing import StandardScaler
 scaled = StandardScaler()
 X_train = scaled.fit_transform(X_train)
 X_text = scaled.fit_transform(X_test)
-X_train
+X_train 
 ```
 
 Different regression models are built and evaluated:
 
 - LogisticRegression
 - Support Vector Machine
-- RDecisionTreeClassifier
-- EKNeighborsClassifier
+- DecisionTreeClassifier
+- KNeighborsClassifier 
 
 ## Modeling
 
