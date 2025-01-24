@@ -9,7 +9,7 @@ This project is designed to predict the eligibility of loan applicants based on 
 - [Data_Cleaning_and_Preprocessing](#data_cleaning_and_preprocessing)         
 - [Normalization](#normalization)    
 - [Modeling](#modeling)       
-- [Results](#results)
+- [Results](#results)   
 - [License](#license)   
 
 ## introduction
