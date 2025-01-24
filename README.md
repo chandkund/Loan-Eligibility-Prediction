@@ -13,7 +13,7 @@ This project is designed to predict the eligibility of loan applicants based on 
 - [License](#license)
 
 ## introduction
-The dataset used for this project includes the following columns:
+The dataset used for this project includes the following columns:   
 - **Loan_ID**: Unique identifier for each loan application. 
 - **Gender**: Applicant's gender (Male/Female).
 - **Married**: Marital status of the applicant (Yes/No).
