@@ -10,7 +10,7 @@ This project is designed to predict the eligibility of loan applicants based on 
 - [Normalization](#normalization)    
 - [Modeling](#modeling)       
 - [Results](#results)   
-- [License](#license)   
+- [License](#license)      
 
 ## introduction
 The dataset used for this project includes the following columns:   
